@@ -1,0 +1,49 @@
+.container{
+    background-color: blanchedalmond;
+
+    border:20px black;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.content{
+    background: white;
+    text-align: left;
+    
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+
+.price{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+ .prices{
+    padding-right: 250px;
+}
+
+.cart{
+    background-color: green;
+    color: azure;
+    
+}
+
+.carts{
+    padding-left: 100px;
+    margin-bottom: 10px;
+    
+    width: fit-content;
+}
+.digit{
+    color: green;
+}
+.design{
+    padding-left:20px ;
+}
